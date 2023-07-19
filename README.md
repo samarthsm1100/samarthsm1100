@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **adi.more7000@gmail.com**
+- 📫 How to reach me **samarthmali1100@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,8 +23,6 @@
  <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
-
-[![Samarth's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samarthsm1100&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
