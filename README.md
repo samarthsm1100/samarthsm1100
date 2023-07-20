@@ -17,8 +17,6 @@
  <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 
 <!--
