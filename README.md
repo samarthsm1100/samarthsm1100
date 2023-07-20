@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!-- GitHub Intro Banner Start -->
-<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- GitHub Intro Banner End -->
-
 <h1 align="center">Hi 👋, I'm Samarth Mali</h1>
 <h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
 
@@ -23,6 +17,8 @@
  <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 <!--
