@@ -20,4 +20,5 @@
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
 
-![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarthsm1100&show_icons=true&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthsm1100&show_icons=true&locale=en&layout=compact" alt="samarthsm1100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthsm1100&show_icons=true&theme=tokyonight&locale=en" alt="samarthsm1100" /></p>
