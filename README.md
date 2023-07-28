@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Samarth Mali</h1>
+
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="codingminds" width="100%" height="100%" align="center"/>
 
-<h1 align="center">Hi 👋, I'm Samarth Mali</h1>
-<h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
+<h3 align="center">Web Development Enthusiast. </br>Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsm1100&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsm1100" /> </p>
 
