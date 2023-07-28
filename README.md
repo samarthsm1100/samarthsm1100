@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="codingminds" width="1100" height="600" align="center"/>
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="codingminds" width="100%" height="100%" align="center"/>
 
 <h1 align="center">Hi 👋, I'm Samarth Mali</h1>
 <h3 align="center">Web Development Enthusiast. Third Year Computer Engineering Student at Pune Institute of Computer Technology.</h3>
